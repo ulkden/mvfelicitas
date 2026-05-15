@@ -1,17 +1,13 @@
 ---
-title: My Site
+title: MV Felicitas
 toc: false
 ---
 
-This is the landing page.
 
-## Explore
+## MV Felicitas
 
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
+![](/images/glamour/port_side.png)
 
-## Documentation
+MV Felicitas is a 1989 Bayliner 3288 located in the Pacific Northwest. She is equipped with two Hino 150 (WO4C-T) mechanical diesel motors and 2000 Watts of solar power generation.
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+

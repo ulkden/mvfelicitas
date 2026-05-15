@@ -1,5 +1,6 @@
 # Hugo configuration file
 title: MV Felicitas
+baseURL: https://www.mvfelicitas.com
 
 # import hextra as module
 module:
@@ -18,12 +19,9 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Parts 
+      pageRef: /parts
       weight: 1
-    - name: About
-      pageRef: /about
-      weight: 2
     - name: Contact ↗
       url: "joshua@mvfelicitas.com"
       weight: 3
